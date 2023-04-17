@@ -1,13 +1,12 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+  "questions": [{
+      "question": "1. Force which pull down the drone is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Weight",
+        "b": "Thrust",
+        "c": "Drag",
+        "d": "Pitch"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +18,46 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Force required to lift rotor typr drone up is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thrust",
+        "b": "Lift",
+        "c": "Drag",
+        "d": "Weight"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. For landing and elevation of drone which joystick is used?",
+      "answers": {
+        "a": "Throttle",
+        "b": "Yaw",
+        "c": "Pitch",
+        "d": "Roll"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. For moving forward which joystick will come in action?",
+      "answers": {
+        "a": "Throttle",
+        "b": "Yaw",
+        "c": "Pitch",
+        "d": "Roll"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +66,23 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. For Turning left and right which joystick will come in action?",
+      "answers": {
+        "a": "Throttle",
+        "b": "Yaw",
+        "c": "Roll",
+        "d": "Pitch"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
