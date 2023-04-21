@@ -3,7 +3,7 @@
 ### Drone's Take-off, Flight & Landing Basics
 
 #### Click Here to Enter the Lab
-
+<!--
 ### Precautions
 
 #### 1. No cell phone or ear phone usage in the laboratories.
@@ -25,7 +25,7 @@
 #### 9. All equipment should be regularly inspected for wear or deterioration.
 
 #### 10. Know emergency exit routes.
-
+-->
 #### Click on binding button, keep pressing it and click on power button
 
 #### LED light is not blinking here, that means your binding is successfully completed
