@@ -170,44 +170,6 @@
 
 #### Repeat the same process with other channels
 
-#### To select Channel2 click on OK button
-
-#### Click on down button
-
-#### To turn on channel 2 long press Cancel button
-
-#### Click on down button to go on channel3
-
-#### To select Channel3 click on OK button
-
-#### Click on down button
-
-#### To turn on channel 3 long press Cancel button
-
-#### Click on down button to go on channel4
-
-#### To select Channel4 click on OK button
-
-#### Click on down button
-
-#### To turn on channel 4 long press Cancel button
-
-#### Click on down button to go on channel5
-
-#### To select Channel5 click on OK button
-
-#### Click on down button
-
-#### To turn on channel 5 long press Cancel button
-
-#### Click on down button to go on channel6
-
-#### To select Channel6 click on OK button
-
-#### Click on down button
-
-#### To turn on channel 6 long press Cancel button
-
 #### Long press Cancel button to save all the channels
 #### <img src="images/press6.png" style="height: 500px;">
 
