@@ -1,0 +1,89 @@
+{
+  "version": 2.0,
+  "questions": [{
+      "question": "1. Which of the force does not act on flight?",
+      "answers": {
+        "a": "Lift",
+        "b": "Weight",
+        "c": "Drag",
+        "d": "Surface tension"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In which state drone auto land?",
+      "answers": {
+        "a": "Communication lost",
+        "b": "Geo fancing breach",
+        "c": "RTL switch hit",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. How to identify face of drone?",
+      "answers": {
+        "a": "Front indicator led",
+        "b": "Colored arm",
+        "c": "Both",
+        "d": "N/A"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. When powering on both drone and transmitter, drone do no take off on applying throttle, why?",
+      "answers": {
+        "a": "Because weather",
+        "b": "Because of windspeed",
+        "c": "Because of not arming",
+        "d": "N/A"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. When changing location of drone for flying what very first thing you have to do?",
+      "answers": {
+        "a": "Put new battery",
+        "b": "Put on new propellor",
+        "c": "Calibrate GPS",
+        "d": "Re-bind transmitter"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
