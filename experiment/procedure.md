@@ -302,4 +302,4 @@
 #### <img src="images/nxt18.png" style="height: 500px;">
 
 #### Thank You For Performing the Experiment
-#### <img src="images/thank-u.png" style="height: 500px;">
+#### <img src="images/tank-u.png" style="height: 500px;">
