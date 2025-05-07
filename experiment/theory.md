@@ -34,17 +34,24 @@ If the right stick is pulled backward, the front of the drone will pitch up caus
 
 ### Pitch (Right Stick)
 
-Pitch is done by pushing the right stick on your controller forwards or backward. This will tilt the drone, resulting in forwards or backward movement.
+Pitch is controlled by pushing the right stick on your controller forward or backward. This maneuver tilts the drone's nose up or down, resulting in forward or backward movement.
 
-When the right stick is pushed forward, the back of the drone will pitch up causing the air to push the drone forward.If the right stick is pulled backward, the front of the drone will pitch up causing the air to push the drone backward.
+- **Pushing the right stick forward** tilts the drone's nose down, causing it to move forward.  
+- **Pulling the right stick backward** tilts the drone's nose up, causing it to move backward.
+<br>
+<img src="images/u_rotations.png" style="height: 300px;">
+<br> 
 
 ### Yaw (Left Stick)
 
-Essentially, it rotates the drone clockwise or counterclockwise.
+Yaw controls the rotation of the drone along the z-axis, allowing it to turn clockwise or counterclockwise.
 
-This is done by pushing the left stick to the left or to the right.<br>
+- **Pushing the left stick to the right** rotates the drone clockwise.  
+- **Pushing the left stick to the left** rotates the drone counterclockwise.
 
-Yaw is typically used at the same time as throttle during continuous flight. This allows the pilot to make circles and patterns. It also allows videographers and photographers to follow objects that might be changing directions.
+Yaw is often used along with throttle during continuous flight to create smooth circular movements and patterns. This is especially useful for videographers and photographers to track moving objects.
+
+> **Note:** In comparison, *roll* refers to the drone's rotation along the x-axis, tilting it left or right.
 
 ### Throttle (Left Stick)
 
@@ -64,12 +71,6 @@ When the drone is facing you (instead of facing away from you) the controls are 
 4. And so on.
 
 So pay attention to that as you start changing directions. Always be thinking in terms of how the drone will move, rather than how it is oriented towards you.
-
-### Agricultural drone:
-
-Most general use of drones is to make simple videos and for fun flying . Drones are quite popular these days, and you can get a nice one without spending too much money. Oh, We are talking about the remotely controlled flying vehicles with four rotors, not the bigger drones scientists use to study climate change and stuff. Those cost a lot of money.<br><br>
-
-Small drones like we have developed are easy to fly a skilled pilot can hover and fly in just about any direction, which makes them great for recording video. But how does a drone actually fly? Ah, this is an excellent opportunity to look at some physics.<br><br>
 
 ### Vertical Motion
 
